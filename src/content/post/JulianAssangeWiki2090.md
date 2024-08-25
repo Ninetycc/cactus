@@ -7,6 +7,12 @@ tags: ["Julian", "Assange", "Wiki"]
 
 ## Alliance Plan
 
+[This is an external link to t.me/JulianAssangeWiki/2090](https://t.me/JulianAssangeWiki/2090)
+
+[Julian Assange: The Alliance’s Plan](https://operationdisclosureofficial.com/2024/08/22/julian-assange-the-alliances-plan/)
+
+![Julian Assange](https://i0.wp.com/operationdisclosureofficial.com/wp-content/uploads/2024/08/Julian-Assange.jpg?w=320&ssl=1 "Julian Assange:")
+
 ⇒ Trump created a fake President Biden to expose globalist crimes and corruption.
 
 ⇒ The emergency broadcast system will impose martial law until fair and transparent elections are held.
@@ -52,7 +58,3 @@ Plan of the Alliance:
 ⇛ New tax system where only a 14% tax is levied on new items, no taxes on food, medicine, wages, used houses or cars, etc.
 
 ⇛ Abolishment of maritime law and transition to common law.
-
-[This is an external link to t.me/JulianAssangeWiki/2090](https://t.me/JulianAssangeWiki/2090)
-
-[Julian Assange: The Alliance’s Plan](https://operationdisclosureofficial.com/2024/08/22/julian-assange-the-alliances-plan/)
