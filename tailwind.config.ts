@@ -133,3 +133,11 @@ export default {
 		},
 	},
 } satisfies Config;
+// <uniquifier>: Use a unique and descriptive class name
+
+//.jost-<uniquifier> {
+//  font-family: "Jost", sans-serif;
+//  font-optical-sizing: auto;
+//  font-weight: 500;
+//  font-style: normal;
+//}
