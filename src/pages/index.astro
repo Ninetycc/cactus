@@ -8,46 +8,63 @@ const MAX_POSTS = 10;
 const allPosts = await getAllPosts();
 const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 
+const meta = {
+	description: "I'm a starter theme for Astro.build",
+	title: "Links",
+};
+
+
 const cactusTech: { desc: string; href: string; title: string }[] = [
 	{
-		desc: "Build fast websites, faster.",
-		href: "https://astro.build",
-		title: "Astro",
+		desc: "Go Deep into the Deception.",
+		href: "https://goesdeep.win/#trash",
+		title: "GoesDeep",
+	},
+  {
+		desc: "Go Deep into the Deception.",
+		href: "https://deepwater.cc",
+		title: "Deep Water",
 	},
 	{
-		desc: "Rapidly build modern websites without ever leaving your HTML.",
-		href: "https://tailwindcss.com",
-		title: "Tailwind CSS",
+		desc: "Health tips that may be helpful.",
+		href: "https://dmso.cc",
+		title: "DMSO",
 	},
 	{
-		desc: "Simple and easy-to-use markup language.",
-		href: "https://www.markdownguide.org/",
-		title: "Markdown",
+		desc: "twitter.com.",
+		href: "https://x.com/ShadowofEzra",
+		title: "Shadow of Ezra",
 	},
 	{
-		desc: "Markdown for the component era.",
-		href: "https://mdxjs.com/",
-		title: "MDX",
+		desc: "twitter.com.",
+		href: "https://x.com/Kabamur_Taygeta",
+		title: "Kabamur_Taygeta",
+	},
+  {
+		desc: "twitter.com.",
+		href: "https://x.com/GhostEzraQ",
+		title: "GhostEzra",
 	},
 	{
-		desc: "Generating png Open Graph images for blog posts.",
-		href: "https://github.com/vercel/satori",
-		title: "Satori",
+		desc: "Q @QTHESTORMM.",
+		href: "https://x.com/QTHESTORMM",
+		title: "@QTHESTORMM.",
+	},
+
+	{
+		desc: "Operation Disclosure.",
+		href: "https://operationdisclosureofficial.com/all/",
+		title: "Operation Disclosure",
+	},
+	{
+		desc: "The Rumor Mill News Reading Room",
+		href: "https://www.rumormillnews.com/",
+		title: "Rumor Mill News",
 	},
 	{
 		desc: "A fully static search library.",
 		href: "https://pagefind.app/",
 		title: "Pagefind",
-	},
-	{
-		desc: "An easy to use Icon component for Astro.",
-		href: "https://github.com/natemoo-re/astro-icon#readme",
-		title: "Astro Icon",
-	},
-	{
-		desc: "Highly customisable source code & syntax highlighter",
-		href: "https://expressive-code.com/",
-		title: "Expressive Code",
 	},
 ];
 ---
