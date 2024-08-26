@@ -125,7 +125,7 @@ export default {
 					css: {
 						code: {
 							fontSize: theme("fontSize.sm")[0],
-							fontWeight: "400",
+							fontWeight: "500",
 						},
 					},
 				},
