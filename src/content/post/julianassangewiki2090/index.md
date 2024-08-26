@@ -7,7 +7,7 @@ tags: ["Julian", "Assange", "Wiki"]
 
 ## Alliance Plan
 
-[This is an external link to t.me/JulianAssangeWiki/2090](https://t.me/JulianAssangeWiki/2090)
+[Link to t.me/JulianAssangeWiki/2090](https://t.me/JulianAssangeWiki/2090)
 
 [Julian Assange: The Alliance’s Plan](https://operationdisclosureofficial.com/2024/08/22/julian-assange-the-alliances-plan/)
 
