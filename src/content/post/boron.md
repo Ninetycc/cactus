@@ -1,8 +1,8 @@
 ---
-title: "Alliance Plan"
+title: "Borax / Boron Cures"
 publishDate: "26 August 2024"
-description: "Trump created a fake President Biden to expose globalist crimes and corruption"
-tags: ["Julian", "Assange", "Wiki"]
+description: "Borax / Boron Cures and Health Benefits"
+tags: ["Boron", "Borax", "Health"]
 ---
 
 ## Borax, Boron, Boric Acid and Your Health
