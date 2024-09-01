@@ -1,10 +1,9 @@
 ---
 title: "Robert Dean"
 publishDate: "1 September 2024"
-description: “We are being evaluated for possible membership in a Galactic Federation… a vast Federation of different planets, different star systems, even different galaxies.”
+description: “We are being evaluated for possible membership in a Galactic Federation…”
 tags: ["robert", "dean", "galactic", "federation"]
 ---
-
 ## The late US Army Command Sergeant Major Robert Dean
 
 [We are being evaluated for possible membership in a Galactic Federation… a vast Federation of different planets, different star systems, even different galaxies.](https://x.com/Kabamur_Taygeta/status/1829624643701129691)
