@@ -1,6 +1,6 @@
 ---
 title: "Robert Dean"
-publishDate: "26 August 2024"
+publishDate: "1 September 2024"
 description: “We are being evaluated for possible membership in a Galactic Federation… a vast Federation of different planets, different star systems, even different galaxies.”
 tags: ["robert", "dean", "galactic", "federation"]
 ---
