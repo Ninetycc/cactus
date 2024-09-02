@@ -30,4 +30,4 @@ tags: ["pleiadians", "bible"]
 
 [YouTube Neioh: The Machine With A Dark Agenda (Family of Taygeta Podcast)](https://youtu.be/pt0qh_j08CE)
 
-[YouTube Family of Taygeta)](https://www.youtube.com/@familyoftaygeta)
+[YouTube Family of Taygeta](https://www.youtube.com/@familyoftaygeta)
