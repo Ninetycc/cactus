@@ -1,7 +1,7 @@
 ---
 title: "Valiantthor369"
 publishDate: "9 September 2024"
-description: “Galactic Commander Valiant Thor Update"
+description: “Galactic Commander Valiant Thor Update REGARDLESS OF THAT, THE POINT I'M TRYING TO MAKE"
 tags: ["Valiant", "Thor", "galactic"]
 ---
 ## Galactic Commander Valiant Thor Update
